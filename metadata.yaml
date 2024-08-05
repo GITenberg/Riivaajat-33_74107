@@ -1,0 +1,52 @@
+_repo: Riivaajat-33_74107
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Pekari, Ida
+    alias: Pekari, Ida Karolina
+    birthdate: 1894
+    deathdate: 1986
+    gutenberg_agent_id: '57328'
+    url: http://www.gutenberg.org/2009/agents/57328
+    wikipedia: https://fi.wikipedia.org/wiki/Ida_Pekari
+creator:
+  author:
+    agent_name: Dostoyevsky, Fyodor
+    aliases:
+    - Dostoevsky, Fyodor
+    - Dostoievski, Fédor Mikhailovitch
+    - Достоевский, Фёдор Михайлович
+    - Dostoievski, Fiodor
+    - Dostoievski, Fedor Mikhailovitch
+    - Dostoyevsky, F. M.
+    - Dostojewski, Fjodor Michailowitsch
+    - Dostoyevsky, Fyodor Mikhailovich
+    - Dostoevsky, Feodor
+    birthdate: 1821
+    deathdate: 1881
+    gutenberg_agent_id: '314'
+    url: http://www.gutenberg.org/2009/agents/314
+    wikipedia: https://en.wikipedia.org/wiki/Fyodor_Dostoevsky
+description: Translation of third part of Бѣсы (Бесы in post-reform Russian), or Bésy.
+gutenberg_issued: '2024-07-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74107'
+language: fi
+pgterms:marc905: 20240703063229dostoevsky
+pgterms:marc906: '1928'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aHelsinki :$bOtava, $c1928.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Political fiction'
+- !lcsh 'Russia -- Social life and customs -- 1533-1917 -- Fiction'
+- !lcsh 'Nihilism -- Fiction'
+- !lcsh 'Terrorists -- Russia -- Fiction'
+- !lcc 'PG'
+- GITenberg
+title: Riivaajat 3/3
+url: http://www.gutenberg.org/ebooks/74107
